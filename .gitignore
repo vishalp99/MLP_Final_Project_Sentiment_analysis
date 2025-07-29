@@ -1,11 +1,10 @@
-# Ignore data folder
 Data/
-
-# Ignore all Jupyter notebooks
-*.ipynb
+__pycache__/
+venv/
+.env
+.ipynb_checkpoints/
 
 # Optional: Ignore OS or IDE-specific files
-__pycache__/
 *.pyc
 .DS_Store
 .env
