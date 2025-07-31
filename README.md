@@ -45,7 +45,7 @@ This repo contains two main parts:
 ### For Financial Phrase Sentiment Classification
 | Model          | Accuracy | Precision (Macro Avg) | Recall (Macro Avg) | F1-Score (Macro Avg) |
 |----------------|----------|----------------------|--------------------|---------------------|
-| SVM            | 82.6%    | 0.83                 | 0.74               | 0.77                |
+| Logistic Reg   | 82.6%    | 0.83                 | 0.74               | 0.77                |
 | Naive Bayes    | 77.1%    | 0.81                 | 0.55               | 0.53                |
 | Random Forest  | 82.4%    | 0.81                 | 0.71               | 0.74                |
 | MLP Classifier | 81.8%    | 0.76                 | 0.75               | 0.76                |
